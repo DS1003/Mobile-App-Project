@@ -3,18 +3,21 @@ import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <Provider>
+      <View style={styles.container}>
+        <Text>Yobanté🚀</Text>
+        <StatusBar style="auto" />
+      </View>
+    </Provider>
+
   );
 }
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
-    backgroundColor: '#fff',
+    flex: 7,
+    backgroundColor: 'midnignt',
     alignItems: 'center',
     justifyContent: 'center',
   },
-});
+}); a
