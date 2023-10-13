@@ -12,7 +12,7 @@ const data = [
         id: "456",
         title: "Order Food",
         image: "https://link.papareact.com/28w",
-        screen: "EatsScreen", // Can change
+        screen: "EatsScreen",
     },
 ];
 
