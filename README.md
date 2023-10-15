@@ -10,8 +10,10 @@ Nous visons à offrir un service exceptionnel qui allie qualité et sécurité p
 * Des avantages après chaque course
 
 ## Technologies
+*
 +React Native
 +React.Js
 +Tailwinds CSS
 +Redux
 ...
+*
