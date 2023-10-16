@@ -1,6 +1,6 @@
 # Jootaly App🚀🟢🔵🚀
 
-Mobile App for Delevery 
+Mobile App for Delevery
 
 ## Description
 
@@ -16,3 +16,4 @@ Nous visons à offrir un service exceptionnel qui allie qualité et sécurité p
 * Tailwinds CSS
 * Redux
 * Firebase
+* Google Maps API
